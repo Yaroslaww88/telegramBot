@@ -2,7 +2,7 @@ import requests
 import datetime
 import gunicorn
 
-token = "866697845:AAF4EIYmKo5r_Mxa1bVRFcyzlYrkCqS1PLw"
+token = ""
 
 class BotHandler:
 
